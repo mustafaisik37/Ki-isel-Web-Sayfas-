@@ -1,0 +1,300 @@
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\MVC_Temp.dll.config
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\MVC_Temp.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\MVC_Temp.pdb
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\csc.exe
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\csc.exe.config
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\csc.rsp
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\csi.exe
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\csi.exe.config
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\csi.rsp
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.AppContext.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Console.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.Compression.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Claims.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.ValueTuple.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\vbc.exe
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\vbc.exe.config
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\vbc.rsp
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\VBCSCompiler.exe
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\System.Web.Helpers.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\System.Web.Mvc.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\System.Web.Razor.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.Razor.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\System.Web.Razor.xml
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.xml
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.Razor.xml
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\System.Web.Helpers.xml
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\System.Web.Mvc.xml
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.csprojAssemblyReference.cache
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.csproj.CoreCompileInputs.cache
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.csproj.CopyComplete
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.dll
+C:\Users\IŞIKLAR\Documents\Visual Studio 2017\ProjelerinMVC\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.pdb
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\MVC_Temp.dll.config
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\MVC_Temp.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\MVC_Temp.pdb
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\csc.exe
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\csc.exe.config
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\csc.rsp
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\csi.exe
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\csi.exe.config
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\csi.rsp
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.AppContext.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Console.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.Compression.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Claims.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.ValueTuple.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\vbc.exe
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\vbc.exe.config
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\vbc.rsp
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\VBCSCompiler.exe
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Helpers.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Mvc.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Razor.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.Razor.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Razor.xml
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.xml
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.Razor.xml
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Helpers.xml
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Mvc.xml
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.csprojAssemblyReference.cache
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.csproj.CoreCompileInputs.cache
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.csproj.CopyComplete
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.dll
+C:\Users\mustafa.isik\Desktop\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.pdb
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\MVC_Temp.dll.config
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\MVC_Temp.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\MVC_Temp.pdb
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\csc.exe
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\csc.exe.config
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\csc.rsp
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\csi.exe
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\csi.exe.config
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\csi.rsp
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.AppContext.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Console.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.Compression.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Claims.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.ValueTuple.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\vbc.exe
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\vbc.exe.config
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\vbc.rsp
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\VBCSCompiler.exe
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Helpers.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Mvc.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Razor.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.Razor.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Razor.xml
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.xml
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Webpages.Razor.xml
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Helpers.xml
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\System.Web.Mvc.xml
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.csprojAssemblyReference.cache
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.csproj.CoreCompileInputs.cache
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.csproj.CopyComplete
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.dll
+C:\Users\IŞIKLAR\Desktop\MVC_Temp\MVC_Temp\obj\Debug\MVC_Temp.pdb
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\MVC_Temp.dll.config
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\MVC_Temp.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\MVC_Temp.pdb
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\csc.exe
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\csc.exe.config
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\csc.rsp
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\csi.exe
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\csi.exe.config
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\csi.rsp
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.AppContext.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Console.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.IO.Compression.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Security.Claims.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.ValueTuple.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\vbc.exe
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\vbc.exe.config
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\vbc.rsp
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\VBCSCompiler.exe
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\System.Web.Helpers.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\System.Web.Mvc.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\System.Web.Razor.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\System.Web.Webpages.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\System.Web.Webpages.Razor.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\System.Web.Razor.xml
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\System.Web.Webpages.xml
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\System.Web.Webpages.Razor.xml
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\System.Web.Helpers.xml
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\System.Web.Mvc.xml
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\tr\System.Web.Razor.resources.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\obj\Debug\MVC_Temp.csprojAssemblyReference.cache
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\obj\Debug\MVC_Temp.csproj.CoreCompileInputs.cache
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\obj\Debug\MVC_Temp.csproj.CopyComplete
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\obj\Debug\MVC_Temp.dll
+C:\Users\IŞIKLAR\Desktop\MUSTAFA-IŞIK-WEB PAGE\MVC_Temp\obj\Debug\MVC_Temp.pdb
